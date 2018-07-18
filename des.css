@@ -1,0 +1,117 @@
+
+
+div {
+	/*background-color: #D9FAFB;*/
+	background-color: #F7F8FF;
+	color: black;
+}
+
+.image {
+	
+}
+
+.header {
+	border-bottom: double;
+}
+
+.h11 {
+	font-size: 200%;
+}
+
+.rounded {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 150px;
+	height: 200px;
+}
+
+.name {
+	font-size: 150%;
+	font-family: 'Josefin Sans';
+}
+
+.myphoto {
+	width: 150px;
+	height: 200px;
+}
+
+.logo {
+	width: 115px;
+	height: 115px;
+}
+
+.collage {
+	font-family: 'Josefin Sans';
+	font-weight: bold;
+	font-size: 160%;
+	margin-bottom: 0em;
+}
+
+.degree {
+	font-family: 'Josefin Sans';
+	font-style: italic;
+	font-size: 110%;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.gpa {
+	font-family: 'Josefin Sans';
+	font-size: 130%;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.ul_list {
+	font-size: 130%;
+	font-family: 'Josefin Sans';
+}
+
+.rightside {
+	float: right;
+}
+
+.add {
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.do_bold{
+	font-weight: bold;
+}
+
+.address {
+	margin-top: 3em;
+	font-family: 'Josefin Sans';
+	text-align: right;
+	font-size: 120%;
+	margin-bottom: 0em;
+}
+
+.line {
+	margin-top: 0em;
+	border-color: 1px solid #rrggbb;
+}
+
+.tags {
+	margin-top: 1em;
+	font-family: 'Josefin Sans';
+	color: #555;
+	border-bottom: solid;
+}
+
+.places {
+	text-align: right;
+}
+
+.project {
+	font-family: 'Josefin Sans';
+	font-weight: bold;
+	font-size: 145%;
+	margin-bottom: 0em;
+}
+
+.skills {
+	font-size: 110%;
+	font-weight: bold;
+}
