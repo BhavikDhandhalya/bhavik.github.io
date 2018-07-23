@@ -36,8 +36,10 @@ div {
 }
 
 .logo {
-	width: 115px;
-	height: 115px;
+/* 	width: 115px;
+	height: 115px; */
+	width: 90%;
+	height: auto;
 }
 
 .collage {
